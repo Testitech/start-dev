@@ -1,5 +1,3 @@
 # Hello Everyone
 
-
-
-Welcome to my start dev repo
+Welcome to Testicode's Repo
