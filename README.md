@@ -1,3 +1,3 @@
-# start-dev.change. Demo Repo
+# Testitech's Demo Repo
 
-Welcome to my Demo Repo
+Welcome to my Demo Repo!
